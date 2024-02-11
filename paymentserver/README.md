@@ -14,8 +14,7 @@
   - Payment_Cancel : payment_cancel
 ---
 
-- 카프카로 정보를 받아와서 가지고 있다가 포스트맨에 
-  입력시에 해당 로직을 수행함. <br><br>
+- 카프카로 정보를 받아와서 해당 로직을 수행함. <br><br>
 
   - POST || /api/v1/payment/pay 
   - GET || /api/v1/payment/detail 
